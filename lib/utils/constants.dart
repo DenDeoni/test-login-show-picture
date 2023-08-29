@@ -1,0 +1,11 @@
+const String titleApp = 'Badaev Test Work';
+const String loginEndPoint = 'https://mobility.cleverlance.com/download/bootcamp/image.php';
+const String checkConnection = 'Check internet connection';
+const String userName = 'login';
+const String showPicture = 'show picture';
+const String password = 'password';
+const String enterValidLogin = 'Please enter a valid login';
+const String enterValidPassword = 'Please enter a valid password';
+const String loginFieldKey = 'loginFieldKey';
+const String passFieldKey = 'passFieldKey';
+const String showPictureButtonKey = 'showPictureButtonKey';
